@@ -15,6 +15,7 @@ Se mejoró la organización del código y se crearon los componentes:
 
 - ProductsList: Utiliza el diseño de una card de Ecommerce de Tailblocks y muestra la lista de productos.
 - StatsPanel: Utiliza el diseño de una card de Stats de Tailblocks y muestra las nuevas estadísticas.
+
   Ambas cuentan con las props necesarias para funcionar y no contienen lógica de estado interno.
 
 ## Imagen
